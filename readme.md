@@ -17,3 +17,5 @@ bash scripts/eval_fm.sh
 
 
 We will further organize our code in the future.
+
+Acknowledgments: We would like to acknowledge the GenPose++, as our codebase is heavily built upon their invaluable efforts.
